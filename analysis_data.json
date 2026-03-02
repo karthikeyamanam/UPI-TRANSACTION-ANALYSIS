@@ -1,0 +1,3466 @@
+{
+  "daily": [
+    {
+      "label": "2025-02-23",
+      "total_volume": 3592.0,
+      "high": 1484.0,
+      "low": 523.0,
+      "average": 898.0,
+      "count": 4
+    },
+    {
+      "label": "2025-02-24",
+      "total_volume": 6129.0,
+      "high": 2400.0,
+      "low": 1761.0,
+      "average": 2043.0,
+      "count": 3
+    },
+    {
+      "label": "2025-02-25",
+      "total_volume": 4065.0,
+      "high": 2482.0,
+      "low": 222.0,
+      "average": 1016.25,
+      "count": 4
+    },
+    {
+      "label": "2025-02-26",
+      "total_volume": 3407.0,
+      "high": 2040.0,
+      "low": 1367.0,
+      "average": 1703.5,
+      "count": 2
+    },
+    {
+      "label": "2025-02-27",
+      "total_volume": 2657.0,
+      "high": 2484.0,
+      "low": 173.0,
+      "average": 1328.5,
+      "count": 2
+    },
+    {
+      "label": "2025-02-28",
+      "total_volume": 2509.0,
+      "high": 1415.0,
+      "low": 84.0,
+      "average": 627.25,
+      "count": 4
+    },
+    {
+      "label": "2025-03-01",
+      "total_volume": 4636.0,
+      "high": 1686.0,
+      "low": 1339.0,
+      "average": 1545.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-03-02",
+      "total_volume": 3454.0,
+      "high": 1860.0,
+      "low": 197.0,
+      "average": 863.5,
+      "count": 4
+    },
+    {
+      "label": "2025-03-03",
+      "total_volume": 5532.0,
+      "high": 2313.0,
+      "low": 440.0,
+      "average": 1383.0,
+      "count": 4
+    },
+    {
+      "label": "2025-03-04",
+      "total_volume": 5191.0,
+      "high": 2379.0,
+      "low": 733.0,
+      "average": 1730.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-03-05",
+      "total_volume": 4681.0,
+      "high": 2426.0,
+      "low": 869.0,
+      "average": 1560.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-03-06",
+      "total_volume": 2197.0,
+      "high": 804.0,
+      "low": 279.0,
+      "average": 549.25,
+      "count": 4
+    },
+    {
+      "label": "2025-03-07",
+      "total_volume": 1671.0,
+      "high": 1069.0,
+      "low": 223.0,
+      "average": 557.0,
+      "count": 3
+    },
+    {
+      "label": "2025-03-08",
+      "total_volume": 3342.0,
+      "high": 2187.0,
+      "low": 544.0,
+      "average": 1114.0,
+      "count": 3
+    },
+    {
+      "label": "2025-03-09",
+      "total_volume": 2917.0,
+      "high": 1851.0,
+      "low": 1066.0,
+      "average": 1458.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-10",
+      "total_volume": 3578.0,
+      "high": 2450.0,
+      "low": 1128.0,
+      "average": 1789.0,
+      "count": 2
+    },
+    {
+      "label": "2025-03-11",
+      "total_volume": 1675.0,
+      "high": 1287.0,
+      "low": 388.0,
+      "average": 837.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-12",
+      "total_volume": 5178.0,
+      "high": 1605.0,
+      "low": 749.0,
+      "average": 1294.5,
+      "count": 4
+    },
+    {
+      "label": "2025-03-13",
+      "total_volume": 4978.0,
+      "high": 2418.0,
+      "low": 435.0,
+      "average": 1659.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-03-14",
+      "total_volume": 6616.0,
+      "high": 2259.0,
+      "low": 2156.0,
+      "average": 2205.3333333333335,
+      "count": 3
+    },
+    {
+      "label": "2025-03-15",
+      "total_volume": 3353.0,
+      "high": 2097.0,
+      "low": 1256.0,
+      "average": 1676.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-16",
+      "total_volume": 2426.0,
+      "high": 1319.0,
+      "low": 1107.0,
+      "average": 1213.0,
+      "count": 2
+    },
+    {
+      "label": "2025-03-17",
+      "total_volume": 3101.0,
+      "high": 1417.0,
+      "low": 301.0,
+      "average": 1033.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-03-18",
+      "total_volume": 3754.0,
+      "high": 1857.0,
+      "low": 213.0,
+      "average": 938.5,
+      "count": 4
+    },
+    {
+      "label": "2025-03-19",
+      "total_volume": 689.0,
+      "high": 411.0,
+      "low": 278.0,
+      "average": 344.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-20",
+      "total_volume": 7483.0,
+      "high": 2471.0,
+      "low": 1286.0,
+      "average": 1870.75,
+      "count": 4
+    },
+    {
+      "label": "2025-03-21",
+      "total_volume": 2382.0,
+      "high": 2271.0,
+      "low": 111.0,
+      "average": 1191.0,
+      "count": 2
+    },
+    {
+      "label": "2025-03-22",
+      "total_volume": 2621.0,
+      "high": 1806.0,
+      "low": 343.0,
+      "average": 873.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-03-23",
+      "total_volume": 1504.0,
+      "high": 914.0,
+      "low": 590.0,
+      "average": 752.0,
+      "count": 2
+    },
+    {
+      "label": "2025-03-24",
+      "total_volume": 1061.0,
+      "high": 680.0,
+      "low": 381.0,
+      "average": 530.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-25",
+      "total_volume": 2220.0,
+      "high": 2220.0,
+      "low": 2220.0,
+      "average": 2220.0,
+      "count": 1
+    },
+    {
+      "label": "2025-03-26",
+      "total_volume": 1498.0,
+      "high": 964.0,
+      "low": 81.0,
+      "average": 499.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-03-27",
+      "total_volume": 3829.0,
+      "high": 2358.0,
+      "low": 1471.0,
+      "average": 1914.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-28",
+      "total_volume": 1751.0,
+      "high": 1297.0,
+      "low": 91.0,
+      "average": 583.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-03-29",
+      "total_volume": 3903.0,
+      "high": 2425.0,
+      "low": 1478.0,
+      "average": 1951.5,
+      "count": 2
+    },
+    {
+      "label": "2025-03-30",
+      "total_volume": 3150.0,
+      "high": 1332.0,
+      "low": 740.0,
+      "average": 1050.0,
+      "count": 3
+    },
+    {
+      "label": "2025-03-31",
+      "total_volume": 3832.0,
+      "high": 1708.0,
+      "low": 824.0,
+      "average": 1277.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-04-01",
+      "total_volume": 5422.0,
+      "high": 2408.0,
+      "low": 1340.0,
+      "average": 1807.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-04-02",
+      "total_volume": 4514.0,
+      "high": 2193.0,
+      "low": 1023.0,
+      "average": 1504.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-04-03",
+      "total_volume": 3143.0,
+      "high": 1733.0,
+      "low": 302.0,
+      "average": 1047.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-04-04",
+      "total_volume": 5241.0,
+      "high": 2436.0,
+      "low": 1216.0,
+      "average": 1747.0,
+      "count": 3
+    },
+    {
+      "label": "2025-04-05",
+      "total_volume": 4185.0,
+      "high": 1837.0,
+      "low": 568.0,
+      "average": 1046.25,
+      "count": 4
+    },
+    {
+      "label": "2025-04-06",
+      "total_volume": 3947.0,
+      "high": 1933.0,
+      "low": 399.0,
+      "average": 986.75,
+      "count": 4
+    },
+    {
+      "label": "2025-04-07",
+      "total_volume": 2843.0,
+      "high": 2484.0,
+      "low": 359.0,
+      "average": 1421.5,
+      "count": 2
+    },
+    {
+      "label": "2025-04-08",
+      "total_volume": 2763.0,
+      "high": 1670.0,
+      "low": 385.0,
+      "average": 921.0,
+      "count": 3
+    },
+    {
+      "label": "2025-04-09",
+      "total_volume": 6042.0,
+      "high": 2058.0,
+      "low": 1938.0,
+      "average": 2014.0,
+      "count": 3
+    },
+    {
+      "label": "2025-04-10",
+      "total_volume": 6779.0,
+      "high": 2338.0,
+      "low": 1047.0,
+      "average": 1694.75,
+      "count": 4
+    },
+    {
+      "label": "2025-04-11",
+      "total_volume": 2522.0,
+      "high": 2211.0,
+      "low": 95.0,
+      "average": 840.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-04-12",
+      "total_volume": 2660.0,
+      "high": 1275.0,
+      "low": 126.0,
+      "average": 886.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-04-13",
+      "total_volume": 2939.0,
+      "high": 1554.0,
+      "low": 74.0,
+      "average": 979.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-04-14",
+      "total_volume": 4199.0,
+      "high": 1986.0,
+      "low": 1088.0,
+      "average": 1399.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-04-15",
+      "total_volume": 2817.0,
+      "high": 1325.0,
+      "low": 361.0,
+      "average": 939.0,
+      "count": 3
+    },
+    {
+      "label": "2025-04-16",
+      "total_volume": 1729.0,
+      "high": 1350.0,
+      "low": 379.0,
+      "average": 864.5,
+      "count": 2
+    },
+    {
+      "label": "2025-04-17",
+      "total_volume": 3485.0,
+      "high": 2345.0,
+      "low": 557.0,
+      "average": 1161.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-04-18",
+      "total_volume": 9446.0,
+      "high": 2493.0,
+      "low": 2099.0,
+      "average": 2361.5,
+      "count": 4
+    },
+    {
+      "label": "2025-04-19",
+      "total_volume": 3118.0,
+      "high": 1915.0,
+      "low": 287.0,
+      "average": 779.5,
+      "count": 4
+    },
+    {
+      "label": "2025-04-20",
+      "total_volume": 4273.0,
+      "high": 2186.0,
+      "low": 2087.0,
+      "average": 2136.5,
+      "count": 2
+    },
+    {
+      "label": "2025-04-21",
+      "total_volume": 2169.0,
+      "high": 1585.0,
+      "low": 584.0,
+      "average": 1084.5,
+      "count": 2
+    },
+    {
+      "label": "2025-04-22",
+      "total_volume": 4768.0,
+      "high": 1902.0,
+      "low": 688.0,
+      "average": 1192.0,
+      "count": 4
+    },
+    {
+      "label": "2025-04-23",
+      "total_volume": 3146.0,
+      "high": 1627.0,
+      "low": 1519.0,
+      "average": 1573.0,
+      "count": 2
+    },
+    {
+      "label": "2025-04-24",
+      "total_volume": 3074.0,
+      "high": 1712.0,
+      "low": 1362.0,
+      "average": 1537.0,
+      "count": 2
+    },
+    {
+      "label": "2025-04-25",
+      "total_volume": 5970.0,
+      "high": 2384.0,
+      "low": 1663.0,
+      "average": 1990.0,
+      "count": 3
+    },
+    {
+      "label": "2025-04-26",
+      "total_volume": 3788.0,
+      "high": 2005.0,
+      "low": 1783.0,
+      "average": 1894.0,
+      "count": 2
+    },
+    {
+      "label": "2025-04-27",
+      "total_volume": 2125.0,
+      "high": 2125.0,
+      "low": 2125.0,
+      "average": 2125.0,
+      "count": 1
+    },
+    {
+      "label": "2025-04-28",
+      "total_volume": 965.0,
+      "high": 633.0,
+      "low": 332.0,
+      "average": 482.5,
+      "count": 2
+    },
+    {
+      "label": "2025-04-29",
+      "total_volume": 3511.0,
+      "high": 1331.0,
+      "low": 392.0,
+      "average": 877.75,
+      "count": 4
+    },
+    {
+      "label": "2025-04-30",
+      "total_volume": 6413.0,
+      "high": 2265.0,
+      "low": 1191.0,
+      "average": 1603.25,
+      "count": 4
+    },
+    {
+      "label": "2025-05-01",
+      "total_volume": 5135.0,
+      "high": 2099.0,
+      "low": 122.0,
+      "average": 1283.75,
+      "count": 4
+    },
+    {
+      "label": "2025-05-02",
+      "total_volume": 2876.0,
+      "high": 1383.0,
+      "low": 411.0,
+      "average": 958.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-05-03",
+      "total_volume": 3701.0,
+      "high": 1977.0,
+      "low": 1724.0,
+      "average": 1850.5,
+      "count": 2
+    },
+    {
+      "label": "2025-05-04",
+      "total_volume": 6521.0,
+      "high": 2384.0,
+      "low": 1989.0,
+      "average": 2173.6666666666665,
+      "count": 3
+    },
+    {
+      "label": "2025-05-05",
+      "total_volume": 4041.0,
+      "high": 2401.0,
+      "low": 1640.0,
+      "average": 2020.5,
+      "count": 2
+    },
+    {
+      "label": "2025-05-06",
+      "total_volume": 5199.0,
+      "high": 1684.0,
+      "low": 758.0,
+      "average": 1299.75,
+      "count": 4
+    },
+    {
+      "label": "2025-05-07",
+      "total_volume": 4590.0,
+      "high": 2453.0,
+      "low": 2137.0,
+      "average": 2295.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-08",
+      "total_volume": 1835.0,
+      "high": 888.0,
+      "low": 82.0,
+      "average": 611.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-05-09",
+      "total_volume": 4383.0,
+      "high": 1800.0,
+      "low": 390.0,
+      "average": 1095.75,
+      "count": 4
+    },
+    {
+      "label": "2025-05-10",
+      "total_volume": 2098.0,
+      "high": 2022.0,
+      "low": 76.0,
+      "average": 1049.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-11",
+      "total_volume": 5053.0,
+      "high": 2385.0,
+      "low": 255.0,
+      "average": 1263.25,
+      "count": 4
+    },
+    {
+      "label": "2025-05-12",
+      "total_volume": 3052.0,
+      "high": 2446.0,
+      "low": 146.0,
+      "average": 1017.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-05-13",
+      "total_volume": 6323.0,
+      "high": 2388.0,
+      "low": 110.0,
+      "average": 1580.75,
+      "count": 4
+    },
+    {
+      "label": "2025-05-14",
+      "total_volume": 3407.0,
+      "high": 2097.0,
+      "low": 233.0,
+      "average": 1135.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-05-15",
+      "total_volume": 2690.0,
+      "high": 1470.0,
+      "low": 1220.0,
+      "average": 1345.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-16",
+      "total_volume": 4989.0,
+      "high": 2139.0,
+      "low": 1223.0,
+      "average": 1663.0,
+      "count": 3
+    },
+    {
+      "label": "2025-05-17",
+      "total_volume": 5226.0,
+      "high": 2079.0,
+      "low": 40.0,
+      "average": 1306.5,
+      "count": 4
+    },
+    {
+      "label": "2025-05-18",
+      "total_volume": 2137.0,
+      "high": 2137.0,
+      "low": 2137.0,
+      "average": 2137.0,
+      "count": 1
+    },
+    {
+      "label": "2025-05-19",
+      "total_volume": 2370.0,
+      "high": 1198.0,
+      "low": 1172.0,
+      "average": 1185.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-20",
+      "total_volume": 6461.0,
+      "high": 2447.0,
+      "low": 1828.0,
+      "average": 2153.6666666666665,
+      "count": 3
+    },
+    {
+      "label": "2025-05-21",
+      "total_volume": 3726.0,
+      "high": 1983.0,
+      "low": 55.0,
+      "average": 931.5,
+      "count": 4
+    },
+    {
+      "label": "2025-05-22",
+      "total_volume": 4005.0,
+      "high": 2145.0,
+      "low": 740.0,
+      "average": 1335.0,
+      "count": 3
+    },
+    {
+      "label": "2025-05-24",
+      "total_volume": 4733.0,
+      "high": 2180.0,
+      "low": 1046.0,
+      "average": 1577.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-05-25",
+      "total_volume": 4610.0,
+      "high": 2101.0,
+      "low": 123.0,
+      "average": 1152.5,
+      "count": 4
+    },
+    {
+      "label": "2025-05-26",
+      "total_volume": 1222.0,
+      "high": 1024.0,
+      "low": 198.0,
+      "average": 611.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-27",
+      "total_volume": 851.0,
+      "high": 442.0,
+      "low": 409.0,
+      "average": 425.5,
+      "count": 2
+    },
+    {
+      "label": "2025-05-28",
+      "total_volume": 2170.0,
+      "high": 1895.0,
+      "low": 275.0,
+      "average": 1085.0,
+      "count": 2
+    },
+    {
+      "label": "2025-05-29",
+      "total_volume": 4080.0,
+      "high": 1798.0,
+      "low": 930.0,
+      "average": 1360.0,
+      "count": 3
+    },
+    {
+      "label": "2025-05-30",
+      "total_volume": 6682.0,
+      "high": 2393.0,
+      "low": 510.0,
+      "average": 1670.5,
+      "count": 4
+    },
+    {
+      "label": "2025-05-31",
+      "total_volume": 3898.0,
+      "high": 2281.0,
+      "low": 704.0,
+      "average": 1299.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-01",
+      "total_volume": 4632.0,
+      "high": 2448.0,
+      "low": 593.0,
+      "average": 1544.0,
+      "count": 3
+    },
+    {
+      "label": "2025-06-02",
+      "total_volume": 2292.0,
+      "high": 1949.0,
+      "low": 92.0,
+      "average": 764.0,
+      "count": 3
+    },
+    {
+      "label": "2025-06-03",
+      "total_volume": 2781.0,
+      "high": 1510.0,
+      "low": 308.0,
+      "average": 927.0,
+      "count": 3
+    },
+    {
+      "label": "2025-06-04",
+      "total_volume": 1648.0,
+      "high": 1525.0,
+      "low": 123.0,
+      "average": 824.0,
+      "count": 2
+    },
+    {
+      "label": "2025-06-05",
+      "total_volume": 5131.0,
+      "high": 2311.0,
+      "low": 586.0,
+      "average": 1710.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-06",
+      "total_volume": 1787.0,
+      "high": 1308.0,
+      "low": 479.0,
+      "average": 893.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-07",
+      "total_volume": 4624.0,
+      "high": 1962.0,
+      "low": 1197.0,
+      "average": 1541.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-08",
+      "total_volume": 3400.0,
+      "high": 1590.0,
+      "low": 404.0,
+      "average": 850.0,
+      "count": 4
+    },
+    {
+      "label": "2025-06-09",
+      "total_volume": 5668.0,
+      "high": 1939.0,
+      "low": 1138.0,
+      "average": 1417.0,
+      "count": 4
+    },
+    {
+      "label": "2025-06-10",
+      "total_volume": 1485.0,
+      "high": 1274.0,
+      "low": 211.0,
+      "average": 742.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-11",
+      "total_volume": 1163.0,
+      "high": 864.0,
+      "low": 299.0,
+      "average": 581.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-12",
+      "total_volume": 1195.0,
+      "high": 845.0,
+      "low": 350.0,
+      "average": 597.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-13",
+      "total_volume": 3132.0,
+      "high": 1828.0,
+      "low": 1304.0,
+      "average": 1566.0,
+      "count": 2
+    },
+    {
+      "label": "2025-06-14",
+      "total_volume": 4328.0,
+      "high": 1863.0,
+      "low": 712.0,
+      "average": 1442.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-06-15",
+      "total_volume": 3733.0,
+      "high": 1881.0,
+      "low": 1852.0,
+      "average": 1866.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-16",
+      "total_volume": 4596.0,
+      "high": 2314.0,
+      "low": 746.0,
+      "average": 1532.0,
+      "count": 3
+    },
+    {
+      "label": "2025-06-17",
+      "total_volume": 3307.0,
+      "high": 2088.0,
+      "low": 377.0,
+      "average": 1102.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-18",
+      "total_volume": 3535.0,
+      "high": 1699.0,
+      "low": 493.0,
+      "average": 1178.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-19",
+      "total_volume": 3123.0,
+      "high": 1716.0,
+      "low": 1407.0,
+      "average": 1561.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-20",
+      "total_volume": 4018.0,
+      "high": 1534.0,
+      "low": 1233.0,
+      "average": 1339.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-06-21",
+      "total_volume": 309.0,
+      "high": 309.0,
+      "low": 309.0,
+      "average": 309.0,
+      "count": 1
+    },
+    {
+      "label": "2025-06-22",
+      "total_volume": 2465.0,
+      "high": 1843.0,
+      "low": 622.0,
+      "average": 1232.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-23",
+      "total_volume": 3888.0,
+      "high": 2176.0,
+      "low": 527.0,
+      "average": 1296.0,
+      "count": 3
+    },
+    {
+      "label": "2025-06-24",
+      "total_volume": 3087.0,
+      "high": 1517.0,
+      "low": 49.0,
+      "average": 771.75,
+      "count": 4
+    },
+    {
+      "label": "2025-06-25",
+      "total_volume": 1427.0,
+      "high": 1313.0,
+      "low": 114.0,
+      "average": 713.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-26",
+      "total_volume": 5697.0,
+      "high": 1901.0,
+      "low": 673.0,
+      "average": 1424.25,
+      "count": 4
+    },
+    {
+      "label": "2025-06-27",
+      "total_volume": 4212.0,
+      "high": 2457.0,
+      "low": 20.0,
+      "average": 1053.0,
+      "count": 4
+    },
+    {
+      "label": "2025-06-28",
+      "total_volume": 1979.0,
+      "high": 1303.0,
+      "low": 676.0,
+      "average": 989.5,
+      "count": 2
+    },
+    {
+      "label": "2025-06-29",
+      "total_volume": 5495.0,
+      "high": 1970.0,
+      "low": 864.0,
+      "average": 1373.75,
+      "count": 4
+    },
+    {
+      "label": "2025-07-01",
+      "total_volume": 2619.0,
+      "high": 2329.0,
+      "low": 290.0,
+      "average": 1309.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-02",
+      "total_volume": 3601.0,
+      "high": 1937.0,
+      "low": 85.0,
+      "average": 1200.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-07-03",
+      "total_volume": 3159.0,
+      "high": 2069.0,
+      "low": 1090.0,
+      "average": 1579.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-04",
+      "total_volume": 3430.0,
+      "high": 2080.0,
+      "low": 1350.0,
+      "average": 1715.0,
+      "count": 2
+    },
+    {
+      "label": "2025-07-05",
+      "total_volume": 5787.0,
+      "high": 1688.0,
+      "low": 1128.0,
+      "average": 1446.75,
+      "count": 4
+    },
+    {
+      "label": "2025-07-06",
+      "total_volume": 3695.0,
+      "high": 1820.0,
+      "low": 507.0,
+      "average": 1231.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-07-07",
+      "total_volume": 3179.0,
+      "high": 2418.0,
+      "low": 761.0,
+      "average": 1589.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-08",
+      "total_volume": 6116.0,
+      "high": 2226.0,
+      "low": 934.0,
+      "average": 1529.0,
+      "count": 4
+    },
+    {
+      "label": "2025-07-09",
+      "total_volume": 1871.0,
+      "high": 1871.0,
+      "low": 1871.0,
+      "average": 1871.0,
+      "count": 1
+    },
+    {
+      "label": "2025-07-10",
+      "total_volume": 5700.0,
+      "high": 2464.0,
+      "low": 278.0,
+      "average": 1425.0,
+      "count": 4
+    },
+    {
+      "label": "2025-07-11",
+      "total_volume": 2732.0,
+      "high": 1349.0,
+      "low": 471.0,
+      "average": 910.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-07-12",
+      "total_volume": 1650.0,
+      "high": 1105.0,
+      "low": 545.0,
+      "average": 825.0,
+      "count": 2
+    },
+    {
+      "label": "2025-07-13",
+      "total_volume": 2363.0,
+      "high": 1892.0,
+      "low": 471.0,
+      "average": 1181.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-14",
+      "total_volume": 3508.0,
+      "high": 2177.0,
+      "low": 1331.0,
+      "average": 1754.0,
+      "count": 2
+    },
+    {
+      "label": "2025-07-15",
+      "total_volume": 2933.0,
+      "high": 2086.0,
+      "low": 847.0,
+      "average": 1466.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-16",
+      "total_volume": 6079.0,
+      "high": 2489.0,
+      "low": 1612.0,
+      "average": 2026.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-07-17",
+      "total_volume": 1534.0,
+      "high": 1353.0,
+      "low": 20.0,
+      "average": 511.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-07-18",
+      "total_volume": 4956.0,
+      "high": 2195.0,
+      "low": 838.0,
+      "average": 1652.0,
+      "count": 3
+    },
+    {
+      "label": "2025-07-19",
+      "total_volume": 3139.0,
+      "high": 2322.0,
+      "low": 817.0,
+      "average": 1569.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-20",
+      "total_volume": 2273.0,
+      "high": 1202.0,
+      "low": 1071.0,
+      "average": 1136.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-21",
+      "total_volume": 4095.0,
+      "high": 2069.0,
+      "low": 184.0,
+      "average": 1365.0,
+      "count": 3
+    },
+    {
+      "label": "2025-07-22",
+      "total_volume": 3199.0,
+      "high": 1530.0,
+      "low": 714.0,
+      "average": 1066.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-07-23",
+      "total_volume": 7220.0,
+      "high": 2311.0,
+      "low": 1221.0,
+      "average": 1805.0,
+      "count": 4
+    },
+    {
+      "label": "2025-07-24",
+      "total_volume": 3131.0,
+      "high": 2224.0,
+      "low": 439.0,
+      "average": 1043.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-07-25",
+      "total_volume": 5893.0,
+      "high": 2288.0,
+      "low": 497.0,
+      "average": 1473.25,
+      "count": 4
+    },
+    {
+      "label": "2025-07-26",
+      "total_volume": 3927.0,
+      "high": 2108.0,
+      "low": 359.0,
+      "average": 1309.0,
+      "count": 3
+    },
+    {
+      "label": "2025-07-27",
+      "total_volume": 1932.0,
+      "high": 1164.0,
+      "low": 28.0,
+      "average": 644.0,
+      "count": 3
+    },
+    {
+      "label": "2025-07-28",
+      "total_volume": 3457.0,
+      "high": 1876.0,
+      "low": 1581.0,
+      "average": 1728.5,
+      "count": 2
+    },
+    {
+      "label": "2025-07-29",
+      "total_volume": 4274.0,
+      "high": 2143.0,
+      "low": 824.0,
+      "average": 1424.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-07-30",
+      "total_volume": 4474.0,
+      "high": 1866.0,
+      "low": 299.0,
+      "average": 1118.5,
+      "count": 4
+    },
+    {
+      "label": "2025-07-31",
+      "total_volume": 2776.0,
+      "high": 1923.0,
+      "low": 188.0,
+      "average": 925.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-08-01",
+      "total_volume": 2823.0,
+      "high": 1498.0,
+      "low": 184.0,
+      "average": 941.0,
+      "count": 3
+    },
+    {
+      "label": "2025-08-02",
+      "total_volume": 2108.0,
+      "high": 1779.0,
+      "low": 329.0,
+      "average": 1054.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-03",
+      "total_volume": 1375.0,
+      "high": 1375.0,
+      "low": 1375.0,
+      "average": 1375.0,
+      "count": 1
+    },
+    {
+      "label": "2025-08-04",
+      "total_volume": 2761.0,
+      "high": 2045.0,
+      "low": 716.0,
+      "average": 1380.5,
+      "count": 2
+    },
+    {
+      "label": "2025-08-05",
+      "total_volume": 4301.0,
+      "high": 2185.0,
+      "low": 697.0,
+      "average": 1433.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-08-06",
+      "total_volume": 2699.0,
+      "high": 2449.0,
+      "low": 250.0,
+      "average": 1349.5,
+      "count": 2
+    },
+    {
+      "label": "2025-08-07",
+      "total_volume": 3877.0,
+      "high": 1890.0,
+      "low": 779.0,
+      "average": 1292.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-08-08",
+      "total_volume": 4697.0,
+      "high": 1840.0,
+      "low": 758.0,
+      "average": 1174.25,
+      "count": 4
+    },
+    {
+      "label": "2025-08-09",
+      "total_volume": 4040.0,
+      "high": 2420.0,
+      "low": 1620.0,
+      "average": 2020.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-10",
+      "total_volume": 5085.0,
+      "high": 1982.0,
+      "low": 702.0,
+      "average": 1271.25,
+      "count": 4
+    },
+    {
+      "label": "2025-08-11",
+      "total_volume": 1343.0,
+      "high": 595.0,
+      "low": 274.0,
+      "average": 447.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-08-12",
+      "total_volume": 6397.0,
+      "high": 2400.0,
+      "low": 1173.0,
+      "average": 1599.25,
+      "count": 4
+    },
+    {
+      "label": "2025-08-13",
+      "total_volume": 2638.0,
+      "high": 1650.0,
+      "low": 988.0,
+      "average": 1319.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-14",
+      "total_volume": 4351.0,
+      "high": 2423.0,
+      "low": 622.0,
+      "average": 1450.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-08-15",
+      "total_volume": 2630.0,
+      "high": 1942.0,
+      "low": 688.0,
+      "average": 1315.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-16",
+      "total_volume": 521.0,
+      "high": 322.0,
+      "low": 199.0,
+      "average": 260.5,
+      "count": 2
+    },
+    {
+      "label": "2025-08-17",
+      "total_volume": 2918.0,
+      "high": 2158.0,
+      "low": 280.0,
+      "average": 972.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-08-18",
+      "total_volume": 3055.0,
+      "high": 2133.0,
+      "low": 338.0,
+      "average": 1018.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-08-19",
+      "total_volume": 4469.0,
+      "high": 1916.0,
+      "low": 367.0,
+      "average": 1117.25,
+      "count": 4
+    },
+    {
+      "label": "2025-08-20",
+      "total_volume": 4174.0,
+      "high": 1910.0,
+      "low": 900.0,
+      "average": 1391.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-08-21",
+      "total_volume": 3111.0,
+      "high": 1945.0,
+      "low": 80.0,
+      "average": 1037.0,
+      "count": 3
+    },
+    {
+      "label": "2025-08-22",
+      "total_volume": 1846.0,
+      "high": 990.0,
+      "low": 40.0,
+      "average": 615.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-08-23",
+      "total_volume": 4723.0,
+      "high": 2343.0,
+      "low": 456.0,
+      "average": 1574.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-08-24",
+      "total_volume": 5298.0,
+      "high": 2056.0,
+      "low": 1619.0,
+      "average": 1766.0,
+      "count": 3
+    },
+    {
+      "label": "2025-08-25",
+      "total_volume": 2646.0,
+      "high": 1739.0,
+      "low": 907.0,
+      "average": 1323.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-26",
+      "total_volume": 4535.0,
+      "high": 1756.0,
+      "low": 1110.0,
+      "average": 1511.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-08-27",
+      "total_volume": 4414.0,
+      "high": 2243.0,
+      "low": 2171.0,
+      "average": 2207.0,
+      "count": 2
+    },
+    {
+      "label": "2025-08-28",
+      "total_volume": 5790.0,
+      "high": 2149.0,
+      "low": 1504.0,
+      "average": 1930.0,
+      "count": 3
+    },
+    {
+      "label": "2025-08-29",
+      "total_volume": 2596.0,
+      "high": 1303.0,
+      "low": 70.0,
+      "average": 649.0,
+      "count": 4
+    },
+    {
+      "label": "2025-08-30",
+      "total_volume": 5082.0,
+      "high": 2047.0,
+      "low": 1267.0,
+      "average": 1694.0,
+      "count": 3
+    },
+    {
+      "label": "2025-08-31",
+      "total_volume": 131.0,
+      "high": 131.0,
+      "low": 131.0,
+      "average": 131.0,
+      "count": 1
+    },
+    {
+      "label": "2025-09-01",
+      "total_volume": 1176.0,
+      "high": 987.0,
+      "low": 189.0,
+      "average": 588.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-02",
+      "total_volume": 2835.0,
+      "high": 1827.0,
+      "low": 1008.0,
+      "average": 1417.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-03",
+      "total_volume": 3784.0,
+      "high": 1739.0,
+      "low": 628.0,
+      "average": 1261.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-09-04",
+      "total_volume": 2769.0,
+      "high": 1597.0,
+      "low": 1172.0,
+      "average": 1384.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-05",
+      "total_volume": 3214.0,
+      "high": 1758.0,
+      "low": 1456.0,
+      "average": 1607.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-06",
+      "total_volume": 3614.0,
+      "high": 1932.0,
+      "low": 1682.0,
+      "average": 1807.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-07",
+      "total_volume": 3591.0,
+      "high": 1643.0,
+      "low": 601.0,
+      "average": 1197.0,
+      "count": 3
+    },
+    {
+      "label": "2025-09-08",
+      "total_volume": 4810.0,
+      "high": 2456.0,
+      "low": 626.0,
+      "average": 1603.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-09-09",
+      "total_volume": 3246.0,
+      "high": 1871.0,
+      "low": 542.0,
+      "average": 1082.0,
+      "count": 3
+    },
+    {
+      "label": "2025-09-10",
+      "total_volume": 1380.0,
+      "high": 882.0,
+      "low": 172.0,
+      "average": 460.0,
+      "count": 3
+    },
+    {
+      "label": "2025-09-11",
+      "total_volume": 5547.0,
+      "high": 2358.0,
+      "low": 843.0,
+      "average": 1849.0,
+      "count": 3
+    },
+    {
+      "label": "2025-09-12",
+      "total_volume": 2058.0,
+      "high": 1257.0,
+      "low": 801.0,
+      "average": 1029.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-13",
+      "total_volume": 4039.0,
+      "high": 2116.0,
+      "low": 1923.0,
+      "average": 2019.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-14",
+      "total_volume": 2225.0,
+      "high": 1206.0,
+      "low": 1019.0,
+      "average": 1112.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-15",
+      "total_volume": 1537.0,
+      "high": 1211.0,
+      "low": 326.0,
+      "average": 768.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-16",
+      "total_volume": 1995.0,
+      "high": 1066.0,
+      "low": 929.0,
+      "average": 997.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-17",
+      "total_volume": 4294.0,
+      "high": 2244.0,
+      "low": 2050.0,
+      "average": 2147.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-18",
+      "total_volume": 1726.0,
+      "high": 1486.0,
+      "low": 240.0,
+      "average": 863.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-19",
+      "total_volume": 1861.0,
+      "high": 835.0,
+      "low": 400.0,
+      "average": 620.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-09-20",
+      "total_volume": 2839.0,
+      "high": 1573.0,
+      "low": 1266.0,
+      "average": 1419.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-21",
+      "total_volume": 4595.0,
+      "high": 2298.0,
+      "low": 2297.0,
+      "average": 2297.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-22",
+      "total_volume": 4802.0,
+      "high": 2388.0,
+      "low": 219.0,
+      "average": 1200.5,
+      "count": 4
+    },
+    {
+      "label": "2025-09-23",
+      "total_volume": 5421.0,
+      "high": 2494.0,
+      "low": 268.0,
+      "average": 1355.25,
+      "count": 4
+    },
+    {
+      "label": "2025-09-24",
+      "total_volume": 5351.0,
+      "high": 2017.0,
+      "low": 1661.0,
+      "average": 1783.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-09-25",
+      "total_volume": 1334.0,
+      "high": 1199.0,
+      "low": 135.0,
+      "average": 667.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-26",
+      "total_volume": 2106.0,
+      "high": 1889.0,
+      "low": 217.0,
+      "average": 1053.0,
+      "count": 2
+    },
+    {
+      "label": "2025-09-27",
+      "total_volume": 3611.0,
+      "high": 2276.0,
+      "low": 1335.0,
+      "average": 1805.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-28",
+      "total_volume": 1927.0,
+      "high": 1017.0,
+      "low": 910.0,
+      "average": 963.5,
+      "count": 2
+    },
+    {
+      "label": "2025-09-29",
+      "total_volume": 1331.0,
+      "high": 862.0,
+      "low": 184.0,
+      "average": 443.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-09-30",
+      "total_volume": 4767.0,
+      "high": 2297.0,
+      "low": 658.0,
+      "average": 1589.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-01",
+      "total_volume": 2260.0,
+      "high": 2029.0,
+      "low": 231.0,
+      "average": 1130.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-02",
+      "total_volume": 3598.0,
+      "high": 2351.0,
+      "low": 1247.0,
+      "average": 1799.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-03",
+      "total_volume": 5477.0,
+      "high": 2130.0,
+      "low": 886.0,
+      "average": 1369.25,
+      "count": 4
+    },
+    {
+      "label": "2025-10-04",
+      "total_volume": 3010.0,
+      "high": 1095.0,
+      "low": 221.0,
+      "average": 752.5,
+      "count": 4
+    },
+    {
+      "label": "2025-10-05",
+      "total_volume": 3402.0,
+      "high": 1425.0,
+      "low": 65.0,
+      "average": 850.5,
+      "count": 4
+    },
+    {
+      "label": "2025-10-06",
+      "total_volume": 4006.0,
+      "high": 2217.0,
+      "low": 749.0,
+      "average": 1335.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-10-07",
+      "total_volume": 5168.0,
+      "high": 2409.0,
+      "low": 605.0,
+      "average": 1722.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-10-08",
+      "total_volume": 2270.0,
+      "high": 1240.0,
+      "low": 44.0,
+      "average": 567.5,
+      "count": 4
+    },
+    {
+      "label": "2025-10-09",
+      "total_volume": 2899.0,
+      "high": 1892.0,
+      "low": 1007.0,
+      "average": 1449.5,
+      "count": 2
+    },
+    {
+      "label": "2025-10-10",
+      "total_volume": 4014.0,
+      "high": 1819.0,
+      "low": 284.0,
+      "average": 1003.5,
+      "count": 4
+    },
+    {
+      "label": "2025-10-11",
+      "total_volume": 2538.0,
+      "high": 1748.0,
+      "low": 790.0,
+      "average": 1269.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-12",
+      "total_volume": 3690.0,
+      "high": 2197.0,
+      "low": 1493.0,
+      "average": 1845.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-13",
+      "total_volume": 2724.0,
+      "high": 1233.0,
+      "low": 314.0,
+      "average": 681.0,
+      "count": 4
+    },
+    {
+      "label": "2025-10-14",
+      "total_volume": 2654.0,
+      "high": 1450.0,
+      "low": 1204.0,
+      "average": 1327.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-15",
+      "total_volume": 2914.0,
+      "high": 1717.0,
+      "low": 1197.0,
+      "average": 1457.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-16",
+      "total_volume": 2178.0,
+      "high": 1100.0,
+      "low": 1078.0,
+      "average": 1089.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-17",
+      "total_volume": 3922.0,
+      "high": 2121.0,
+      "low": 64.0,
+      "average": 1307.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-10-18",
+      "total_volume": 1223.0,
+      "high": 1065.0,
+      "low": 158.0,
+      "average": 611.5,
+      "count": 2
+    },
+    {
+      "label": "2025-10-19",
+      "total_volume": 2134.0,
+      "high": 1800.0,
+      "low": 119.0,
+      "average": 711.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-10-20",
+      "total_volume": 3390.0,
+      "high": 1808.0,
+      "low": 539.0,
+      "average": 1130.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-21",
+      "total_volume": 3045.0,
+      "high": 1382.0,
+      "low": 468.0,
+      "average": 1015.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-22",
+      "total_volume": 2499.0,
+      "high": 2362.0,
+      "low": 137.0,
+      "average": 1249.5,
+      "count": 2
+    },
+    {
+      "label": "2025-10-23",
+      "total_volume": 3765.0,
+      "high": 1891.0,
+      "low": 1874.0,
+      "average": 1882.5,
+      "count": 2
+    },
+    {
+      "label": "2025-10-24",
+      "total_volume": 2497.0,
+      "high": 2497.0,
+      "low": 2497.0,
+      "average": 2497.0,
+      "count": 1
+    },
+    {
+      "label": "2025-10-25",
+      "total_volume": 3615.0,
+      "high": 2238.0,
+      "low": 245.0,
+      "average": 1205.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-26",
+      "total_volume": 3081.0,
+      "high": 2059.0,
+      "low": 348.0,
+      "average": 1027.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-27",
+      "total_volume": 1630.0,
+      "high": 1554.0,
+      "low": 76.0,
+      "average": 815.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-28",
+      "total_volume": 4098.0,
+      "high": 2092.0,
+      "low": 2006.0,
+      "average": 2049.0,
+      "count": 2
+    },
+    {
+      "label": "2025-10-29",
+      "total_volume": 4746.0,
+      "high": 2143.0,
+      "low": 1125.0,
+      "average": 1582.0,
+      "count": 3
+    },
+    {
+      "label": "2025-10-30",
+      "total_volume": 4648.0,
+      "high": 2243.0,
+      "low": 803.0,
+      "average": 1549.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-10-31",
+      "total_volume": 2190.0,
+      "high": 1630.0,
+      "low": 155.0,
+      "average": 547.5,
+      "count": 4
+    },
+    {
+      "label": "2025-11-01",
+      "total_volume": 1654.0,
+      "high": 902.0,
+      "low": 752.0,
+      "average": 827.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-02",
+      "total_volume": 2404.0,
+      "high": 1804.0,
+      "low": 600.0,
+      "average": 1202.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-03",
+      "total_volume": 7825.0,
+      "high": 2438.0,
+      "low": 690.0,
+      "average": 1956.25,
+      "count": 4
+    },
+    {
+      "label": "2025-11-04",
+      "total_volume": 5793.0,
+      "high": 2265.0,
+      "low": 677.0,
+      "average": 1448.25,
+      "count": 4
+    },
+    {
+      "label": "2025-11-05",
+      "total_volume": 4316.0,
+      "high": 2229.0,
+      "low": 2087.0,
+      "average": 2158.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-06",
+      "total_volume": 3269.0,
+      "high": 2354.0,
+      "low": 915.0,
+      "average": 1634.5,
+      "count": 2
+    },
+    {
+      "label": "2025-11-07",
+      "total_volume": 2452.0,
+      "high": 1530.0,
+      "low": 39.0,
+      "average": 817.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-11-08",
+      "total_volume": 2263.0,
+      "high": 2133.0,
+      "low": 130.0,
+      "average": 1131.5,
+      "count": 2
+    },
+    {
+      "label": "2025-11-09",
+      "total_volume": 5146.0,
+      "high": 2218.0,
+      "low": 691.0,
+      "average": 1286.5,
+      "count": 4
+    },
+    {
+      "label": "2025-11-10",
+      "total_volume": 5054.0,
+      "high": 1931.0,
+      "low": 1269.0,
+      "average": 1684.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-11-11",
+      "total_volume": 2342.0,
+      "high": 2074.0,
+      "low": 268.0,
+      "average": 1171.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-12",
+      "total_volume": 4230.0,
+      "high": 1605.0,
+      "low": 229.0,
+      "average": 1057.5,
+      "count": 4
+    },
+    {
+      "label": "2025-11-13",
+      "total_volume": 3115.0,
+      "high": 1698.0,
+      "low": 188.0,
+      "average": 778.75,
+      "count": 4
+    },
+    {
+      "label": "2025-11-14",
+      "total_volume": 5661.0,
+      "high": 2289.0,
+      "low": 787.0,
+      "average": 1415.25,
+      "count": 4
+    },
+    {
+      "label": "2025-11-15",
+      "total_volume": 5512.0,
+      "high": 2491.0,
+      "low": 82.0,
+      "average": 1378.0,
+      "count": 4
+    },
+    {
+      "label": "2025-11-16",
+      "total_volume": 1340.0,
+      "high": 1261.0,
+      "low": 79.0,
+      "average": 670.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-17",
+      "total_volume": 5412.0,
+      "high": 2256.0,
+      "low": 1111.0,
+      "average": 1804.0,
+      "count": 3
+    },
+    {
+      "label": "2025-11-18",
+      "total_volume": 1810.0,
+      "high": 1559.0,
+      "low": 251.0,
+      "average": 905.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-19",
+      "total_volume": 2362.0,
+      "high": 2208.0,
+      "low": 154.0,
+      "average": 1181.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-20",
+      "total_volume": 4466.0,
+      "high": 2191.0,
+      "low": 106.0,
+      "average": 1488.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-11-21",
+      "total_volume": 4178.0,
+      "high": 2321.0,
+      "low": 490.0,
+      "average": 1044.5,
+      "count": 4
+    },
+    {
+      "label": "2025-11-22",
+      "total_volume": 1011.0,
+      "high": 798.0,
+      "low": 213.0,
+      "average": 505.5,
+      "count": 2
+    },
+    {
+      "label": "2025-11-23",
+      "total_volume": 2348.0,
+      "high": 1199.0,
+      "low": 91.0,
+      "average": 782.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2025-11-24",
+      "total_volume": 1624.0,
+      "high": 1059.0,
+      "low": 234.0,
+      "average": 541.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-11-25",
+      "total_volume": 3852.0,
+      "high": 2153.0,
+      "low": 1699.0,
+      "average": 1926.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-26",
+      "total_volume": 4300.0,
+      "high": 2085.0,
+      "low": 352.0,
+      "average": 1075.0,
+      "count": 4
+    },
+    {
+      "label": "2025-11-27",
+      "total_volume": 6938.0,
+      "high": 2266.0,
+      "low": 1069.0,
+      "average": 1734.5,
+      "count": 4
+    },
+    {
+      "label": "2025-11-28",
+      "total_volume": 1502.0,
+      "high": 820.0,
+      "low": 682.0,
+      "average": 751.0,
+      "count": 2
+    },
+    {
+      "label": "2025-11-29",
+      "total_volume": 3415.0,
+      "high": 1584.0,
+      "low": 365.0,
+      "average": 853.75,
+      "count": 4
+    },
+    {
+      "label": "2025-11-30",
+      "total_volume": 3456.0,
+      "high": 2026.0,
+      "low": 239.0,
+      "average": 1152.0,
+      "count": 3
+    },
+    {
+      "label": "2025-12-01",
+      "total_volume": 4769.0,
+      "high": 2185.0,
+      "low": 539.0,
+      "average": 1589.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-12-02",
+      "total_volume": 3552.0,
+      "high": 1332.0,
+      "low": 387.0,
+      "average": 888.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-03",
+      "total_volume": 3888.0,
+      "high": 2011.0,
+      "low": 172.0,
+      "average": 1296.0,
+      "count": 3
+    },
+    {
+      "label": "2025-12-04",
+      "total_volume": 7332.0,
+      "high": 2438.0,
+      "low": 1446.0,
+      "average": 1833.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-05",
+      "total_volume": 1858.0,
+      "high": 1584.0,
+      "low": 49.0,
+      "average": 619.3333333333334,
+      "count": 3
+    },
+    {
+      "label": "2025-12-06",
+      "total_volume": 6365.0,
+      "high": 2455.0,
+      "low": 367.0,
+      "average": 1591.25,
+      "count": 4
+    },
+    {
+      "label": "2025-12-07",
+      "total_volume": 3542.0,
+      "high": 1579.0,
+      "low": 606.0,
+      "average": 1180.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-12-08",
+      "total_volume": 1436.0,
+      "high": 1398.0,
+      "low": 38.0,
+      "average": 718.0,
+      "count": 2
+    },
+    {
+      "label": "2025-12-09",
+      "total_volume": 3764.0,
+      "high": 1910.0,
+      "low": 168.0,
+      "average": 941.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-10",
+      "total_volume": 4195.0,
+      "high": 2353.0,
+      "low": 1842.0,
+      "average": 2097.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-11",
+      "total_volume": 7040.0,
+      "high": 2466.0,
+      "low": 1015.0,
+      "average": 1760.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-12",
+      "total_volume": 7712.0,
+      "high": 2338.0,
+      "low": 1184.0,
+      "average": 1928.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-13",
+      "total_volume": 4199.0,
+      "high": 2234.0,
+      "low": 1965.0,
+      "average": 2099.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-14",
+      "total_volume": 3824.0,
+      "high": 2010.0,
+      "low": 755.0,
+      "average": 1274.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2025-12-15",
+      "total_volume": 4884.0,
+      "high": 2460.0,
+      "low": 208.0,
+      "average": 1221.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-16",
+      "total_volume": 2542.0,
+      "high": 1511.0,
+      "low": 1031.0,
+      "average": 1271.0,
+      "count": 2
+    },
+    {
+      "label": "2025-12-17",
+      "total_volume": 2251.0,
+      "high": 1433.0,
+      "low": 818.0,
+      "average": 1125.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-18",
+      "total_volume": 769.0,
+      "high": 769.0,
+      "low": 769.0,
+      "average": 769.0,
+      "count": 1
+    },
+    {
+      "label": "2025-12-19",
+      "total_volume": 3668.0,
+      "high": 2079.0,
+      "low": 1589.0,
+      "average": 1834.0,
+      "count": 2
+    },
+    {
+      "label": "2025-12-20",
+      "total_volume": 3334.0,
+      "high": 2039.0,
+      "low": 624.0,
+      "average": 1111.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-12-21",
+      "total_volume": 1285.0,
+      "high": 756.0,
+      "low": 529.0,
+      "average": 642.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-22",
+      "total_volume": 4603.0,
+      "high": 2491.0,
+      "low": 975.0,
+      "average": 1534.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2025-12-23",
+      "total_volume": 6579.0,
+      "high": 2149.0,
+      "low": 1080.0,
+      "average": 1644.75,
+      "count": 4
+    },
+    {
+      "label": "2025-12-24",
+      "total_volume": 6284.0,
+      "high": 2264.0,
+      "low": 1003.0,
+      "average": 1571.0,
+      "count": 4
+    },
+    {
+      "label": "2025-12-25",
+      "total_volume": 3825.0,
+      "high": 2489.0,
+      "low": 1336.0,
+      "average": 1912.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-26",
+      "total_volume": 4082.0,
+      "high": 2215.0,
+      "low": 1867.0,
+      "average": 2041.0,
+      "count": 2
+    },
+    {
+      "label": "2025-12-27",
+      "total_volume": 3765.0,
+      "high": 1947.0,
+      "low": 1818.0,
+      "average": 1882.5,
+      "count": 2
+    },
+    {
+      "label": "2025-12-28",
+      "total_volume": 1892.0,
+      "high": 972.0,
+      "low": 920.0,
+      "average": 946.0,
+      "count": 2
+    },
+    {
+      "label": "2025-12-29",
+      "total_volume": 5295.0,
+      "high": 2344.0,
+      "low": 1018.0,
+      "average": 1765.0,
+      "count": 3
+    },
+    {
+      "label": "2025-12-30",
+      "total_volume": 6947.0,
+      "high": 2452.0,
+      "low": 702.0,
+      "average": 1736.75,
+      "count": 4
+    },
+    {
+      "label": "2025-12-31",
+      "total_volume": 3655.0,
+      "high": 2210.0,
+      "low": 684.0,
+      "average": 1218.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-01-01",
+      "total_volume": 2059.0,
+      "high": 1799.0,
+      "low": 260.0,
+      "average": 1029.5,
+      "count": 2
+    },
+    {
+      "label": "2026-01-02",
+      "total_volume": 6881.0,
+      "high": 2124.0,
+      "low": 1331.0,
+      "average": 1720.25,
+      "count": 4
+    },
+    {
+      "label": "2026-01-03",
+      "total_volume": 5148.0,
+      "high": 2266.0,
+      "low": 1193.0,
+      "average": 1716.0,
+      "count": 3
+    },
+    {
+      "label": "2026-01-04",
+      "total_volume": 2745.0,
+      "high": 2260.0,
+      "low": 46.0,
+      "average": 915.0,
+      "count": 3
+    },
+    {
+      "label": "2026-01-05",
+      "total_volume": 7719.0,
+      "high": 2363.0,
+      "low": 1237.0,
+      "average": 1929.75,
+      "count": 4
+    },
+    {
+      "label": "2026-01-06",
+      "total_volume": 4000.0,
+      "high": 2410.0,
+      "low": 766.0,
+      "average": 1333.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-01-07",
+      "total_volume": 319.0,
+      "high": 319.0,
+      "low": 319.0,
+      "average": 319.0,
+      "count": 1
+    },
+    {
+      "label": "2026-01-08",
+      "total_volume": 3555.0,
+      "high": 2142.0,
+      "low": 1413.0,
+      "average": 1777.5,
+      "count": 2
+    },
+    {
+      "label": "2026-01-09",
+      "total_volume": 2688.0,
+      "high": 1774.0,
+      "low": 914.0,
+      "average": 1344.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-10",
+      "total_volume": 5506.0,
+      "high": 2247.0,
+      "low": 518.0,
+      "average": 1376.5,
+      "count": 4
+    },
+    {
+      "label": "2026-01-11",
+      "total_volume": 2571.0,
+      "high": 2181.0,
+      "low": 390.0,
+      "average": 1285.5,
+      "count": 2
+    },
+    {
+      "label": "2026-01-12",
+      "total_volume": 6026.0,
+      "high": 2230.0,
+      "low": 1007.0,
+      "average": 1506.5,
+      "count": 4
+    },
+    {
+      "label": "2026-01-13",
+      "total_volume": 4188.0,
+      "high": 2222.0,
+      "low": 1966.0,
+      "average": 2094.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-14",
+      "total_volume": 4885.0,
+      "high": 1892.0,
+      "low": 1459.0,
+      "average": 1628.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-01-15",
+      "total_volume": 2520.0,
+      "high": 1310.0,
+      "low": 1210.0,
+      "average": 1260.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-16",
+      "total_volume": 2528.0,
+      "high": 1299.0,
+      "low": 229.0,
+      "average": 632.0,
+      "count": 4
+    },
+    {
+      "label": "2026-01-17",
+      "total_volume": 2377.0,
+      "high": 2377.0,
+      "low": 2377.0,
+      "average": 2377.0,
+      "count": 1
+    },
+    {
+      "label": "2026-01-18",
+      "total_volume": 6637.0,
+      "high": 2385.0,
+      "low": 204.0,
+      "average": 1659.25,
+      "count": 4
+    },
+    {
+      "label": "2026-01-19",
+      "total_volume": 7007.0,
+      "high": 2493.0,
+      "low": 2196.0,
+      "average": 2335.6666666666665,
+      "count": 3
+    },
+    {
+      "label": "2026-01-20",
+      "total_volume": 4256.0,
+      "high": 2231.0,
+      "low": 496.0,
+      "average": 1418.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2026-01-21",
+      "total_volume": 4257.0,
+      "high": 1622.0,
+      "low": 550.0,
+      "average": 1064.25,
+      "count": 4
+    },
+    {
+      "label": "2026-01-22",
+      "total_volume": 2626.0,
+      "high": 1670.0,
+      "low": 956.0,
+      "average": 1313.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-23",
+      "total_volume": 5037.0,
+      "high": 2151.0,
+      "low": 240.0,
+      "average": 1259.25,
+      "count": 4
+    },
+    {
+      "label": "2026-01-24",
+      "total_volume": 2184.0,
+      "high": 1529.0,
+      "low": 655.0,
+      "average": 1092.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-25",
+      "total_volume": 3439.0,
+      "high": 2415.0,
+      "low": 201.0,
+      "average": 1146.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-01-26",
+      "total_volume": 1720.0,
+      "high": 921.0,
+      "low": 799.0,
+      "average": 860.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-27",
+      "total_volume": 1441.0,
+      "high": 1354.0,
+      "low": 87.0,
+      "average": 720.5,
+      "count": 2
+    },
+    {
+      "label": "2026-01-28",
+      "total_volume": 2237.0,
+      "high": 1454.0,
+      "low": 783.0,
+      "average": 1118.5,
+      "count": 2
+    },
+    {
+      "label": "2026-01-29",
+      "total_volume": 4879.0,
+      "high": 2059.0,
+      "low": 305.0,
+      "average": 1219.75,
+      "count": 4
+    },
+    {
+      "label": "2026-01-30",
+      "total_volume": 3354.0,
+      "high": 2493.0,
+      "low": 861.0,
+      "average": 1677.0,
+      "count": 2
+    },
+    {
+      "label": "2026-01-31",
+      "total_volume": 4308.0,
+      "high": 2240.0,
+      "low": 2068.0,
+      "average": 2154.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-01",
+      "total_volume": 5545.0,
+      "high": 2212.0,
+      "low": 1263.0,
+      "average": 1848.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-02-02",
+      "total_volume": 3727.0,
+      "high": 2478.0,
+      "low": 1249.0,
+      "average": 1863.5,
+      "count": 2
+    },
+    {
+      "label": "2026-02-03",
+      "total_volume": 290.0,
+      "high": 290.0,
+      "low": 290.0,
+      "average": 290.0,
+      "count": 1
+    },
+    {
+      "label": "2026-02-04",
+      "total_volume": 4394.0,
+      "high": 2387.0,
+      "low": 2007.0,
+      "average": 2197.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-05",
+      "total_volume": 2831.0,
+      "high": 2108.0,
+      "low": 87.0,
+      "average": 943.6666666666666,
+      "count": 3
+    },
+    {
+      "label": "2026-02-06",
+      "total_volume": 1542.0,
+      "high": 1349.0,
+      "low": 193.0,
+      "average": 771.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-07",
+      "total_volume": 3311.0,
+      "high": 1714.0,
+      "low": 388.0,
+      "average": 1103.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2026-02-08",
+      "total_volume": 5880.0,
+      "high": 2391.0,
+      "low": 1322.0,
+      "average": 1960.0,
+      "count": 3
+    },
+    {
+      "label": "2026-02-09",
+      "total_volume": 4798.0,
+      "high": 2012.0,
+      "low": 1305.0,
+      "average": 1599.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-02-10",
+      "total_volume": 1546.0,
+      "high": 1094.0,
+      "low": 452.0,
+      "average": 773.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-11",
+      "total_volume": 4063.0,
+      "high": 1802.0,
+      "low": 699.0,
+      "average": 1354.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-02-12",
+      "total_volume": 4697.0,
+      "high": 2463.0,
+      "low": 116.0,
+      "average": 1174.25,
+      "count": 4
+    },
+    {
+      "label": "2026-02-13",
+      "total_volume": 4774.0,
+      "high": 2466.0,
+      "low": 797.0,
+      "average": 1591.3333333333333,
+      "count": 3
+    },
+    {
+      "label": "2026-02-14",
+      "total_volume": 3495.0,
+      "high": 2120.0,
+      "low": 1375.0,
+      "average": 1747.5,
+      "count": 2
+    },
+    {
+      "label": "2026-02-15",
+      "total_volume": 3644.0,
+      "high": 2471.0,
+      "low": 517.0,
+      "average": 1214.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2026-02-16",
+      "total_volume": 2943.0,
+      "high": 1436.0,
+      "low": 317.0,
+      "average": 981.0,
+      "count": 3
+    },
+    {
+      "label": "2026-02-17",
+      "total_volume": 6198.0,
+      "high": 2269.0,
+      "low": 295.0,
+      "average": 1549.5,
+      "count": 4
+    },
+    {
+      "label": "2026-02-18",
+      "total_volume": 7187.0,
+      "high": 2320.0,
+      "low": 1143.0,
+      "average": 1796.75,
+      "count": 4
+    },
+    {
+      "label": "2026-02-19",
+      "total_volume": 3077.0,
+      "high": 2412.0,
+      "low": 258.0,
+      "average": 1025.6666666666667,
+      "count": 3
+    },
+    {
+      "label": "2026-02-20",
+      "total_volume": 3366.0,
+      "high": 2134.0,
+      "low": 1232.0,
+      "average": 1683.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-21",
+      "total_volume": 1236.0,
+      "high": 972.0,
+      "low": 264.0,
+      "average": 618.0,
+      "count": 2
+    },
+    {
+      "label": "2026-02-22",
+      "total_volume": 5637.0,
+      "high": 2199.0,
+      "low": 746.0,
+      "average": 1409.25,
+      "count": 4
+    }
+  ],
+  "weekly": [
+    {
+      "label": "2025-W01",
+      "total_volume": 15897.0,
+      "high": 2452.0,
+      "low": 684.0,
+      "average": 1589.7,
+      "count": 10
+    },
+    {
+      "label": "2025-W08",
+      "total_volume": 3592.0,
+      "high": 1484.0,
+      "low": 523.0,
+      "average": 898.0,
+      "count": 4
+    },
+    {
+      "label": "2025-W09",
+      "total_volume": 26857.0,
+      "high": 2484.0,
+      "low": 84.0,
+      "average": 1220.7727272727273,
+      "count": 22
+    },
+    {
+      "label": "2025-W10",
+      "total_volume": 25531.0,
+      "high": 2426.0,
+      "low": 223.0,
+      "average": 1160.5,
+      "count": 22
+    },
+    {
+      "label": "2025-W11",
+      "total_volume": 27804.0,
+      "high": 2450.0,
+      "low": 388.0,
+      "average": 1544.6666666666667,
+      "count": 18
+    },
+    {
+      "label": "2025-W12",
+      "total_volume": 21534.0,
+      "high": 2471.0,
+      "low": 111.0,
+      "average": 1076.7,
+      "count": 20
+    },
+    {
+      "label": "2025-W13",
+      "total_volume": 17412.0,
+      "high": 2425.0,
+      "low": 81.0,
+      "average": 1088.25,
+      "count": 16
+    },
+    {
+      "label": "2025-W14",
+      "total_volume": 30284.0,
+      "high": 2436.0,
+      "low": 302.0,
+      "average": 1316.695652173913,
+      "count": 23
+    },
+    {
+      "label": "2025-W15",
+      "total_volume": 26548.0,
+      "high": 2484.0,
+      "low": 74.0,
+      "average": 1264.1904761904761,
+      "count": 21
+    },
+    {
+      "label": "2025-W16",
+      "total_volume": 29067.0,
+      "high": 2493.0,
+      "low": 287.0,
+      "average": 1384.142857142857,
+      "count": 21
+    },
+    {
+      "label": "2025-W17",
+      "total_volume": 25040.0,
+      "high": 2384.0,
+      "low": 584.0,
+      "average": 1565.0,
+      "count": 16
+    },
+    {
+      "label": "2025-W18",
+      "total_volume": 29122.0,
+      "high": 2384.0,
+      "low": 122.0,
+      "average": 1323.7272727272727,
+      "count": 22
+    },
+    {
+      "label": "2025-W19",
+      "total_volume": 27199.0,
+      "high": 2453.0,
+      "low": 76.0,
+      "average": 1295.1904761904761,
+      "count": 21
+    },
+    {
+      "label": "2025-W20",
+      "total_volume": 27824.0,
+      "high": 2446.0,
+      "low": 40.0,
+      "average": 1391.2,
+      "count": 20
+    },
+    {
+      "label": "2025-W21",
+      "total_volume": 25905.0,
+      "high": 2447.0,
+      "low": 55.0,
+      "average": 1363.421052631579,
+      "count": 19
+    },
+    {
+      "label": "2025-W22",
+      "total_volume": 23535.0,
+      "high": 2448.0,
+      "low": 198.0,
+      "average": 1238.6842105263158,
+      "count": 19
+    },
+    {
+      "label": "2025-W23",
+      "total_volume": 21663.0,
+      "high": 2311.0,
+      "low": 92.0,
+      "average": 1083.15,
+      "count": 20
+    },
+    {
+      "label": "2025-W24",
+      "total_volume": 20704.0,
+      "high": 1939.0,
+      "low": 211.0,
+      "average": 1217.8823529411766,
+      "count": 17
+    },
+    {
+      "label": "2025-W25",
+      "total_volume": 21353.0,
+      "high": 2314.0,
+      "low": 309.0,
+      "average": 1256.0588235294117,
+      "count": 17
+    },
+    {
+      "label": "2025-W26",
+      "total_volume": 25785.0,
+      "high": 2457.0,
+      "low": 20.0,
+      "average": 1121.0869565217392,
+      "count": 23
+    },
+    {
+      "label": "2025-W27",
+      "total_volume": 22291.0,
+      "high": 2329.0,
+      "low": 85.0,
+      "average": 1393.1875,
+      "count": 16
+    },
+    {
+      "label": "2025-W28",
+      "total_volume": 23611.0,
+      "high": 2464.0,
+      "low": 278.0,
+      "average": 1311.7222222222222,
+      "count": 18
+    },
+    {
+      "label": "2025-W29",
+      "total_volume": 24422.0,
+      "high": 2489.0,
+      "low": 20.0,
+      "average": 1436.5882352941176,
+      "count": 17
+    },
+    {
+      "label": "2025-W30",
+      "total_volume": 29397.0,
+      "high": 2311.0,
+      "low": 28.0,
+      "average": 1278.1304347826087,
+      "count": 23
+    },
+    {
+      "label": "2025-W31",
+      "total_volume": 21287.0,
+      "high": 2143.0,
+      "low": 184.0,
+      "average": 1182.611111111111,
+      "count": 18
+    },
+    {
+      "label": "2025-W32",
+      "total_volume": 27460.0,
+      "high": 2449.0,
+      "low": 250.0,
+      "average": 1373.0,
+      "count": 20
+    },
+    {
+      "label": "2025-W33",
+      "total_volume": 20798.0,
+      "high": 2423.0,
+      "low": 199.0,
+      "average": 1094.6315789473683,
+      "count": 19
+    },
+    {
+      "label": "2025-W34",
+      "total_volume": 26676.0,
+      "high": 2343.0,
+      "low": 40.0,
+      "average": 1212.5454545454545,
+      "count": 22
+    },
+    {
+      "label": "2025-W35",
+      "total_volume": 25194.0,
+      "high": 2243.0,
+      "low": 70.0,
+      "average": 1399.6666666666667,
+      "count": 18
+    },
+    {
+      "label": "2025-W36",
+      "total_volume": 20983.0,
+      "high": 1932.0,
+      "low": 189.0,
+      "average": 1311.4375,
+      "count": 16
+    },
+    {
+      "label": "2025-W37",
+      "total_volume": 23305.0,
+      "high": 2456.0,
+      "low": 172.0,
+      "average": 1294.7222222222222,
+      "count": 18
+    },
+    {
+      "label": "2025-W38",
+      "total_volume": 18847.0,
+      "high": 2298.0,
+      "low": 240.0,
+      "average": 1256.4666666666667,
+      "count": 15
+    },
+    {
+      "label": "2025-W39",
+      "total_volume": 24552.0,
+      "high": 2494.0,
+      "low": 135.0,
+      "average": 1292.2105263157894,
+      "count": 19
+    },
+    {
+      "label": "2025-W40",
+      "total_volume": 23845.0,
+      "high": 2351.0,
+      "low": 65.0,
+      "average": 1083.8636363636363,
+      "count": 22
+    },
+    {
+      "label": "2025-W41",
+      "total_volume": 24585.0,
+      "high": 2409.0,
+      "low": 44.0,
+      "average": 1229.25,
+      "count": 20
+    },
+    {
+      "label": "2025-W42",
+      "total_volume": 17749.0,
+      "high": 2121.0,
+      "low": 64.0,
+      "average": 986.0555555555555,
+      "count": 18
+    },
+    {
+      "label": "2025-W43",
+      "total_volume": 21892.0,
+      "high": 2497.0,
+      "low": 137.0,
+      "average": 1287.764705882353,
+      "count": 17
+    },
+    {
+      "label": "2025-W44",
+      "total_volume": 21370.0,
+      "high": 2243.0,
+      "low": 76.0,
+      "average": 1187.2222222222222,
+      "count": 18
+    },
+    {
+      "label": "2025-W45",
+      "total_volume": 31064.0,
+      "high": 2438.0,
+      "low": 39.0,
+      "average": 1479.2380952380952,
+      "count": 21
+    },
+    {
+      "label": "2025-W46",
+      "total_volume": 27254.0,
+      "high": 2491.0,
+      "low": 79.0,
+      "average": 1184.9565217391305,
+      "count": 23
+    },
+    {
+      "label": "2025-W47",
+      "total_volume": 21587.0,
+      "high": 2321.0,
+      "low": 91.0,
+      "average": 1136.157894736842,
+      "count": 19
+    },
+    {
+      "label": "2025-W48",
+      "total_volume": 25087.0,
+      "high": 2266.0,
+      "low": 234.0,
+      "average": 1140.3181818181818,
+      "count": 22
+    },
+    {
+      "label": "2025-W49",
+      "total_volume": 31306.0,
+      "high": 2455.0,
+      "low": 49.0,
+      "average": 1304.4166666666667,
+      "count": 24
+    },
+    {
+      "label": "2025-W50",
+      "total_volume": 32170.0,
+      "high": 2466.0,
+      "low": 38.0,
+      "average": 1531.904761904762,
+      "count": 21
+    },
+    {
+      "label": "2025-W51",
+      "total_volume": 18733.0,
+      "high": 2460.0,
+      "low": 208.0,
+      "average": 1170.8125,
+      "count": 16
+    },
+    {
+      "label": "2025-W52",
+      "total_volume": 31030.0,
+      "high": 2491.0,
+      "low": 920.0,
+      "average": 1633.157894736842,
+      "count": 19
+    },
+    {
+      "label": "2026-W01",
+      "total_volume": 16833.0,
+      "high": 2266.0,
+      "low": 46.0,
+      "average": 1402.75,
+      "count": 12
+    },
+    {
+      "label": "2026-W02",
+      "total_volume": 26358.0,
+      "high": 2410.0,
+      "low": 319.0,
+      "average": 1464.3333333333333,
+      "count": 18
+    },
+    {
+      "label": "2026-W03",
+      "total_volume": 29161.0,
+      "high": 2385.0,
+      "low": 204.0,
+      "average": 1458.05,
+      "count": 20
+    },
+    {
+      "label": "2026-W04",
+      "total_volume": 28806.0,
+      "high": 2493.0,
+      "low": 201.0,
+      "average": 1371.7142857142858,
+      "count": 21
+    },
+    {
+      "label": "2026-W05",
+      "total_volume": 23484.0,
+      "high": 2493.0,
+      "low": 87.0,
+      "average": 1381.4117647058824,
+      "count": 17
+    },
+    {
+      "label": "2026-W06",
+      "total_volume": 21975.0,
+      "high": 2478.0,
+      "low": 87.0,
+      "average": 1373.4375,
+      "count": 16
+    },
+    {
+      "label": "2026-W07",
+      "total_volume": 27017.0,
+      "high": 2471.0,
+      "low": 116.0,
+      "average": 1350.85,
+      "count": 20
+    },
+    {
+      "label": "2026-W08",
+      "total_volume": 29644.0,
+      "high": 2412.0,
+      "low": 258.0,
+      "average": 1347.4545454545455,
+      "count": 22
+    }
+  ],
+  "monthly": [
+    {
+      "label": "2025-02",
+      "total_volume": 22359.0,
+      "high": 2484.0,
+      "low": 84.0,
+      "average": 1176.7894736842106,
+      "count": 19
+    },
+    {
+      "label": "2025-03",
+      "total_volume": 104203.0,
+      "high": 2471.0,
+      "low": 81.0,
+      "average": 1211.6627906976744,
+      "count": 86
+    },
+    {
+      "label": "2025-04",
+      "total_volume": 117996.0,
+      "high": 2493.0,
+      "low": 74.0,
+      "average": 1340.8636363636363,
+      "count": 88
+    },
+    {
+      "label": "2025-05",
+      "total_volume": 118064.0,
+      "high": 2453.0,
+      "low": 40.0,
+      "average": 1341.6363636363637,
+      "count": 88
+    },
+    {
+      "label": "2025-06",
+      "total_volume": 94137.0,
+      "high": 2457.0,
+      "low": 20.0,
+      "average": 1176.7125,
+      "count": 80
+    },
+    {
+      "label": "2025-07",
+      "total_volume": 114702.0,
+      "high": 2489.0,
+      "low": 20.0,
+      "average": 1333.7441860465117,
+      "count": 86
+    },
+    {
+      "label": "2025-08",
+      "total_volume": 106434.0,
+      "high": 2449.0,
+      "low": 40.0,
+      "average": 1252.164705882353,
+      "count": 85
+    },
+    {
+      "label": "2025-09",
+      "total_volume": 93785.0,
+      "high": 2494.0,
+      "low": 135.0,
+      "average": 1267.3648648648648,
+      "count": 74
+    },
+    {
+      "label": "2025-10",
+      "total_volume": 99285.0,
+      "high": 2497.0,
+      "low": 44.0,
+      "average": 1168.0588235294117,
+      "count": 85
+    },
+    {
+      "label": "2025-11",
+      "total_volume": 109050.0,
+      "high": 2491.0,
+      "low": 39.0,
+      "average": 1225.2808988764045,
+      "count": 89
+    },
+    {
+      "label": "2025-12",
+      "total_volume": 129136.0,
+      "high": 2491.0,
+      "low": 38.0,
+      "average": 1434.8444444444444,
+      "count": 90
+    },
+    {
+      "label": "2026-01",
+      "total_volume": 119097.0,
+      "high": 2493.0,
+      "low": 46.0,
+      "average": 1401.1411764705883,
+      "count": 85
+    },
+    {
+      "label": "2026-02",
+      "total_volume": 84181.0,
+      "high": 2478.0,
+      "low": 87.0,
+      "average": 1380.016393442623,
+      "count": 61
+    }
+  ],
+  "yearly": [
+    {
+      "label": "2025",
+      "total_volume": 1109151.0,
+      "high": 2497.0,
+      "low": 20.0,
+      "average": 1274.8862068965518,
+      "count": 870
+    },
+    {
+      "label": "2026",
+      "total_volume": 203278.0,
+      "high": 2493.0,
+      "low": 46.0,
+      "average": 1392.3150684931506,
+      "count": 146
+    }
+  ]
+}

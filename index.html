@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPI Transaction Analysis</title>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Transaction Intelligence</h1>
+            <p class="subtitle">AI-Powered Insights into your spending habits</p>
+        </header>
+
+        <div class="controls-wrapper">
+            <div class="view-controls">
+                <button data-view="daily" class="view-btn active">Daily View</button>
+                <button data-view="weekly" class="view-btn">Weekly View</button>
+                <button data-view="monthly" class="view-btn">Monthly View</button>
+                <button data-view="yearly" class="view-btn">Yearly View</button>
+            </div>
+
+            <div class="filter-controls">
+                <!-- Selectors shown/hidden dynamically via JS -->
+                <div id="filter-daily" class="filter-group">
+                    <label for="day-select">Select Day:</label>
+                    <input type="date" id="day-select">
+                </div>
+
+                <div id="filter-weekly" class="filter-group hidden">
+                    <label for="week-select">Select Week:</label>
+                    <select id="week-select"></select>
+                </div>
+
+                <div id="filter-monthly" class="filter-group hidden">
+                    <label for="month-select">Select Month:</label>
+                    <select id="month-select"></select>
+                </div>
+
+                <div id="filter-yearly" class="filter-group hidden">
+                    <label for="year-select">Select Year:</label>
+                    <select id="year-select"></select>
+                </div>
+            </div>
+        </div>
+
+        <main class="dashboard-grid">
+            <div class="card">
+                <div class="chart-container">
+                    <canvas id="transactionChart"></canvas>
+                </div>
+            </div>
+
+            <div class="metrics-container">
+                <div class="metric-card">
+                    <div class="metric-title"><span id="current-view">Daily</span> Total Spend</div>
+                    <div class="metric-value" id="metric-total">₹0</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-title">Highest single transaction</div>
+                    <div class="metric-value highest" id="metric-high">₹0</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-title">Lowest single transaction</div>
+                    <div class="metric-value lowest" id="metric-low">₹0</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-title">Average transaction</div>
+                    <div class="metric-value avg" id="metric-avg">₹0</div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Data securely processed offline. UPI Transaction Analysis Dashboard.</p>
+        </footer>
+    </div>
+
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+
+</html>
